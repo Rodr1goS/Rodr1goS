@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 👋 I'm Rodrigo Sosa
+- 
 <!--
 **Rodr1goS/Rodr1goS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
