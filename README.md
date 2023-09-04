@@ -1,6 +1,10 @@
 ### Hi there 👋
 - 👋 I'm Rodrigo Sosa
-- 
+- 😄 Pronouns: he/him
+- 🔭  I’m interested in embedded systems, cyber physical systems and IoT
+- 🎓 I’m currently a student at SDSU
+- 📫 How to reach me: rsosa6157@sdsu.edu
+- 🤔 I’m looking for help with Windows Database and Web Programming
 <!--
 **Rodr1goS/Rodr1goS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
